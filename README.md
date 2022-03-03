@@ -26,11 +26,10 @@ You can look at previous searched terms by clicking the appropriate button below
 ## Screenshots
 
 <img src="./assets/img/Screenshot2-desktop.PNG" alt="desktop deployment" style="max-width: 400px;">
-<img src="./assets/img/Screenshot1-mobile.PNG" alt="mobile deployment" style="max-width: 200px; max-height: 300px">
 
 ### Link to deployed site
 
-https://gordonlc18.github.io/shopping_with_bitcoin/
+https://ernestpaul88.github.io/coin-to-wine/
 
 ## Contributors:
 
